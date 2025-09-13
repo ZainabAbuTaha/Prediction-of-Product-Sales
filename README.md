@@ -1,6 +1,8 @@
 # Sales Prediction Project
 
 ## Project overview 
+The project aims to analyze 2023 sales data to understand seasonality and predict future performance. The primary issue addressed is the difficulty of forecasting actual sales in light of market changes, which impacts planning and production. This analysis helps companies build informed business models based on actual data.
+
 This project is divided into 4 main parts: loading and inspecting the data, cleaning the data, and performing exploratory data analysis (EDA), feature insepection
 
 ## 🔹 Part 1: Load and Inspect Data
