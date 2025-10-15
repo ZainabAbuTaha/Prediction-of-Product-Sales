@@ -16,7 +16,7 @@ This project is divided into 4 main parts: loading and inspecting the data, clea
  - Size: ~8,500 observations, 12 features
  - Features include product type, outlet characteristics, visibility, pricing, and historical sales
 
-## 🔹 Results
+## Results
 Here, I explored the data visually to find patterns, correlations, and insights.
 - Visualized numerical features (e.g., histograms, boxplots).
 - Analyzed categorical features using bar charts.
